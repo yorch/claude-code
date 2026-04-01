@@ -10,6 +10,18 @@
 
 ---
 
+## Want to see what YOUR Claude Code actually sends?
+
+LeanMCP shows you what it did in your last session — 
+every request, every model call, every secret that 
+almost left your machine.
+
+→ [See your Claude Code logs](https://leanmcp.com/ai-gateway)  
+One URL change. No code required.
+→ [Docs](https://docs.leanmcp.com/ai-gateway/claude-code#claude-code)
+
+---
+
 **Clear-Code** is a comprehensive, community-driven resource hub dedicated to cataloging, comparing, and promoting the best **open-source AI coding assistants** available today. Whether you're a solo developer, a startup founder, or part of a large engineering team, this repository is your one-stop guide to finding the right AI-powered coding tool — without vendor lock-in, without closed-source limitations, and without the hefty price tags.
 
 The AI coding assistant space is evolving at breakneck speed. New tools launch every week, existing tools ship major updates constantly, and it's nearly impossible to keep up. **Clear-Code** exists to cut through the noise, give you honest comparisons, and help you pick the tools that actually make you more productive.
